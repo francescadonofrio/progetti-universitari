@@ -1,0 +1,4 @@
+3
+AZ123 Roma 10 30 150
+FR456 Milano 14 15 200
+LH789 Parigi 18 45 180
