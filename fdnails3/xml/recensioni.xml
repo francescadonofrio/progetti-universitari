@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recensioni SYSTEM "recensioni.dtd">
+<recensioni>
+  <recensione id="R01" id_smalto="S01" username="francesca02">
+    <titolo>Ottimo smalto</titolo>
+    <testo>Colore pieno e dura tanto.</testo>
+    <voto>5</voto>
+    <utilita>6</utilita>
+    <supporto>2</supporto>
+    <data>2026-01-20</data>
+  </recensione>
+  <recensione id="R02" id_smalto="S01" username="ppp">
+    <titolo>prova smalto</titolo>
+    <testo>ottima</testo>
+    <voto>5</voto>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <data>2026-02-06</data>
+  </recensione>
+</recensioni>
