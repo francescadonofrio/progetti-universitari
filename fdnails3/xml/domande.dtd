@@ -1,0 +1,26 @@
+<!ELEMENT domande (domanda+)>
+
+<!ELEMENT domanda (testo, utilita, supporto, risposte)>
+
+<!ATTLIST domanda
+  id        CDATA #REQUIRED
+  id_smalto CDATA #REQUIRED
+  username  CDATA #REQUIRED
+  data      CDATA #REQUIRED
+>
+
+<!ELEMENT testo (#PCDATA)>
+
+<!ELEMENT utilita (#PCDATA)>
+
+<!ELEMENT supporto (#PCDATA)>
+
+<!ELEMENT risposte (risposta*)>
+
+<!ELEMENT risposta (testo, utilita, supporto)>
+
+<!ATTLIST risposta
+  id       CDATA #REQUIRED
+  username CDATA #REQUIRED
+  data     CDATA #REQUIRED
+>

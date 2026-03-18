@@ -1,0 +1,9 @@
+<!ELEMENT catalogo (smalto+)>
+
+<!ELEMENT smalto (nome, descrizione, prezzo, immagine)>
+<!ATTLIST smalto id ID #REQUIRED>
+
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT descrizione (#PCDATA)>
+<!ELEMENT prezzo (#PCDATA)>
+<!ELEMENT immagine (#PCDATA)>
