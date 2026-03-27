@@ -1,7 +1,0 @@
-<!ELEMENT faq (qna+)>
-
-<!ELEMENT qna (domanda, risposta)>
-<!ATTLIST qna id ID #REQUIRED>
-
-<!ELEMENT domanda (#PCDATA)>
-<!ELEMENT risposta (#PCDATA)>
