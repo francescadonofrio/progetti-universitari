@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE domande SYSTEM "domande.dtd">
+<domande>
+  <domanda id="D01" id_smalto="S01" username="vanedim73" data="2026-02-04">
+    <testo>Il rosso S01 resta lucido anche dopo qualche giorno?</testo>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A01" username="admin" data="2026-02-05">
+        <testo>Sì, con base e top coat mantiene una buona brillantezza per diversi giorni.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D02" id_smalto="S01" username="francidono02" data="2026-02-09">
+    <testo>È un rosso classico o tende più allo scuro?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A02" username="admin" data="2026-02-10">
+        <testo>È un rosso classico pieno e brillante, non troppo scuro.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D03" id_smalto="S02" username="Mariadp53" data="2026-02-10">
+    <testo>Il nude S02 tende al rosa?</testo>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A03" username="admin" data="2026-02-11">
+        <testo>Ha una tonalità chiara e delicata con una lieve sfumatura calda.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D04" id_smalto="S02" username="sissi" data="2026-02-20">
+    <testo>È adatto per una manicure da tutti i giorni?</testo>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A04" username="admin" data="2026-02-21">
+        <testo>Sì, è uno dei colori più adatti per un effetto naturale e discreto.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D05" id_smalto="S03" username="tizidim75" data="2026-02-18">
+    <testo>Il nero S03 è coprente già alla prima passata?</testo>
+    <utilita>2</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A05" username="admin" data="2026-02-19">
+        <testo>Consigliamo due passate per ottenere un colore nero pieno e uniforme.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D06" id_smalto="S03" username="vanedim73" data="2026-03-04">
+    <testo>La finitura del nero è lucida?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A06" username="admin" data="2026-03-05">
+        <testo>Sì, ha una finitura lucida che risalta ancora di più con top coat.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D07" id_smalto="S04" username="sissi" data="2026-02-25">
+    <testo>Lo champagne S04 è molto brillante?</testo>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A07" username="admin" data="2026-02-26">
+        <testo>Sì, è perlato e luminoso, con un effetto elegante ma non eccessivo.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D08" id_smalto="S04" username="Mariadp53" data="2026-03-08">
+    <testo>È adatto per cerimonie o occasioni eleganti?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A08" username="admin" data="2026-03-09">
+        <testo>Sì, è uno dei colori più richiesti per manicure eleganti e luminose.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D09" id_smalto="S05" username="vanedim73" data="2026-03-10">
+    <testo>Il cioccolato S05 è un marrone caldo o freddo?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A09" username="admin" data="2026-03-11">
+        <testo>È un marrone caldo, intenso e lucido.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D10" id_smalto="S05" username="tizidim75" data="2026-03-13">
+    <testo>È un colore più invernale?</testo>
+    <utilita>1</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A10" username="admin" data="2026-03-14">
+        <testo>Sì, è particolarmente adatto ai mesi autunnali e invernali, ma resta molto versatile.</testo>
+        <utilita>1</utilita>
+        <supporto>1</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D11" id_smalto="S06" username="francidono02" data="2026-03-15">
+    <testo>L'argento brillantinato S06 copre bene?</testo>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A11" username="admin" data="2026-03-16">
+        <testo>Sì, ha una buona coprenza e un effetto glitter molto visibile.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D12" id_smalto="S06" username="sissi" data="2026-03-17">
+    <testo>È indicato per feste e occasioni particolari?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A12" username="admin" data="2026-03-18">
+        <testo>Sì, è pensato proprio per manicure luminose e più appariscenti.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D13" id_smalto="S07" username="Mariadp53" data="2026-03-19">
+    <testo>L'oro brillantinato S07 è molto acceso?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A13" username="admin" data="2026-03-20">
+        <testo>Ha una brillantezza evidente ma resta elegante grazie alla tonalità dorata calda.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D14" id_smalto="S07" username="vanedim73" data="2026-03-21">
+    <testo>È più adatto come colore pieno o come dettaglio?</testo>
+    <utilita>1</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A14" username="admin" data="2026-03-22">
+        <testo>Può essere usato in entrambi i modi, sia su tutte le unghie sia come dettaglio brillante.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D15" id_smalto="S08" username="tizidim75" data="2026-03-22">
+    <testo>Il bianco perla S08 è molto coprente?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A15" username="admin" data="2026-03-23">
+        <testo>Ha una coprenza buona con un effetto perlato elegante e luminoso.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D16" id_smalto="S08" username="francidono02" data="2026-03-24">
+    <testo>È adatto a una manicure da sposa?</testo>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A16" username="admin" data="2026-03-25">
+        <testo>Sì, è uno dei colori più adatti per una manicure chiara ed elegante.</testo>
+        <utilita>1</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D17" id_smalto="S09" username="sissi" data="2026-03-25">
+    <testo>Il taupe S09 tende più al grigio o al beige?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A17" username="admin" data="2026-03-26">
+        <testo>Tende al grigio tortora con una resa molto elegante e neutra.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D18" id_smalto="S09" username="Mariadp53" data="2026-03-26">
+    <testo>È un colore facile da portare tutti i giorni?</testo>
+    <utilita>1</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A18" username="admin" data="2026-03-27">
+        <testo>Sì, è molto versatile e adatto sia a contesti casual sia più eleganti.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D19" id_smalto="S10" username="vanedim73" data="2026-03-27">
+    <testo>Il tortora S10 è più caldo del taupe?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A19" username="admin" data="2026-03-28">
+        <testo>Sì, ha una tonalità più calda rispetto al taupe S09.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D20" id_smalto="S10" username="tizidim75" data="2026-03-28">
+    <testo>È un colore sobrio?</testo>
+    <utilita>1</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A20" username="admin" data="2026-03-29">
+        <testo>Sì, è molto sobrio e adatto a chi cerca una manicure discreta ma curata.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D21" id_smalto="S11" username="francidono02" data="2026-03-29">
+    <testo>Il corallo S11 è molto acceso?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A21" username="admin" data="2026-03-30">
+        <testo>Sì, è una tonalità vivace e luminosa, ideale per stagioni calde.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D22" id_smalto="S11" username="sissi" data="2026-03-30">
+    <testo>È adatto più alla primavera o all'estate?</testo>
+    <utilita>1</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A22" username="admin" data="2026-03-31">
+        <testo>È perfetto per entrambe, soprattutto per manicure fresche e colorate.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D23" id_smalto="S12" username="Mariadp53" data="2026-03-31">
+    <testo>Il bordeaux S12 è molto scuro?</testo>
+    <utilita>1</utilita>
+    <supporto>1</supporto>
+    <risposte>
+      <risposta id="A23" username="admin" data="2026-04-01">
+        <testo>È intenso e profondo, ma mantiene una bella brillantezza lucida.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+  <domanda id="D24" id_smalto="S12" username="tizidim75" data="2026-04-01">
+    <testo>È più elegante del rosso classico?</testo>
+    <utilita>1</utilita>
+    <supporto>0</supporto>
+    <risposte>
+      <risposta id="A24" username="admin" data="2026-04-02">
+        <testo>Sì, ha un tono più profondo e raffinato rispetto a un rosso classico.</testo>
+        <utilita>0</utilita>
+        <supporto>0</supporto>
+      </risposta>
+    </risposte>
+  </domanda>
+</domande>

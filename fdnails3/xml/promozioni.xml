@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE promozioni SYSTEM "promozioni.dtd">
+<promozioni>
+  <sconti>
+    <sconto id="SC01" tipo="prodotto" valorePercento="10" dal="2026-03-01" al="2026-04-30">
+      <descrizione>Promo primavera Rosso Federica</descrizione>
+      <applicazione>
+        <idProdotto>S01</idProdotto>
+      </applicazione>
+    </sconto>
+
+    <sconto id="SC02" tipo="prodotto" valorePercento="5" dal="2026-03-15" al="2026-04-30">
+      <descrizione>Sconto extra Rosso Federica</descrizione>
+      <applicazione>
+        <idProdotto>S01</idProdotto>
+      </applicazione>
+    </sconto>
+
+    <sconto id="SC03" tipo="prodotto" valorePercento="12" dal="2026-03-10" al="2026-04-30">
+      <descrizione>Promo Champagne</descrizione>
+      <applicazione>
+        <idProdotto>S04</idProdotto>
+      </applicazione>
+    </sconto>
+
+    <sconto id="SC04" tipo="prodotto" valorePercento="8" dal="2026-03-20" al="2026-04-30">
+      <descrizione>Promo Bordeaux</descrizione>
+      <applicazione>
+        <idProdotto>S12</idProdotto>
+      </applicazione>
+    </sconto>
+  </sconti>
+
+  <bonus>
+    <bonusterm id="BO01" tipo="generico" crediti="1" dal="2026-03-01" al="2026-04-30">
+      <descrizione>Bonus acquisto del mese</descrizione>
+      <applicazione>
+        <tutti/>
+      </applicazione>
+    </bonusterm>
+
+    <bonusterm id="BO02" tipo="personalizzato" crediti="2" dal="2026-03-15" al="2026-04-30">
+      <descrizione>Bonus utenti attivi</descrizione>
+      <applicazione>
+        <criterio tipo="reputazione" valore="1"/>
+      </applicazione>
+    </bonusterm>
+  </bonus>
+</promozioni>

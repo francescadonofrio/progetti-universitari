@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE acquisti SYSTEM "acquisti.dtd">
+<acquisti>
+  <acquisto id="1" utente="francidono02" data="2026-03-25 22:50:31" totale="9.50">
+    <prodotto id_smalto="S02" quantita="1" prezzo_unitario="9.50"/>
+  </acquisto>
+  <acquisto id="2" utente="vanedim73" data="2026-03-26 10:15:12" totale="8.90">
+    <prodotto id_smalto="S01" quantita="1" prezzo_unitario="8.90"/>
+  </acquisto>
+  <acquisto id="3" utente="Mariadp53" data="2026-03-26 11:22:45" totale="9.90">
+    <prodotto id_smalto="S03" quantita="1" prezzo_unitario="9.90"/>
+  </acquisto>
+  <acquisto id="4" utente="sissi" data="2026-03-26 14:05:33" totale="10.50">
+    <prodotto id_smalto="S04" quantita="1" prezzo_unitario="10.50"/>
+  </acquisto>
+  <acquisto id="5" utente="tizidim75" data="2026-03-27 09:18:21" totale="9.80">
+    <prodotto id_smalto="S05" quantita="1" prezzo_unitario="9.80"/>
+  </acquisto>
+  <acquisto id="6" utente="francidono02" data="2026-03-27 12:44:10" totale="10.90">
+    <prodotto id_smalto="S06" quantita="1" prezzo_unitario="10.90"/>
+  </acquisto>
+  <acquisto id="7" utente="vanedim73" data="2026-03-27 18:30:05" totale="10.90">
+    <prodotto id_smalto="S07" quantita="1" prezzo_unitario="10.90"/>
+  </acquisto>
+  <acquisto id="8" utente="Mariadp53" data="2026-03-28 10:11:56" totale="9.70">
+    <prodotto id_smalto="S08" quantita="1" prezzo_unitario="9.70"/>
+  </acquisto>
+  <acquisto id="9" utente="sissi" data="2026-03-28 16:42:19" totale="9.60">
+    <prodotto id_smalto="S09" quantita="1" prezzo_unitario="9.60"/>
+  </acquisto>
+  <acquisto id="10" utente="tizidim75" data="2026-03-29 09:05:44" totale="9.60">
+    <prodotto id_smalto="S10" quantita="1" prezzo_unitario="9.60"/>
+  </acquisto>
+  <acquisto id="11" utente="francidono02" data="2026-03-29 13:21:08" totale="9.80">
+    <prodotto id_smalto="S11" quantita="1" prezzo_unitario="9.80"/>
+  </acquisto>
+  <acquisto id="12" utente="vanedim73" data="2026-03-29 18:55:31" totale="9.90">
+    <prodotto id_smalto="S12" quantita="1" prezzo_unitario="9.90"/>
+  </acquisto>
+  <acquisto id="13" utente="Mariadp53" data="2026-03-30 10:10:10" totale="18.40">
+    <prodotto id_smalto="S01" quantita="1" prezzo_unitario="8.90"/>
+    <prodotto id_smalto="S02" quantita="1" prezzo_unitario="9.50"/>
+  </acquisto>
+  <acquisto id="14" utente="sissi" data="2026-03-30 15:22:47" totale="20.40">
+    <prodotto id_smalto="S04" quantita="1" prezzo_unitario="10.50"/>
+    <prodotto id_smalto="S10" quantita="1" prezzo_unitario="9.90"/>
+  </acquisto>
+  <acquisto id="15" utente="tizidim75" data="2026-03-31 11:33:02" totale="19.50">
+    <prodotto id_smalto="S05" quantita="1" prezzo_unitario="9.80"/>
+    <prodotto id_smalto="S09" quantita="1" prezzo_unitario="9.70"/>
+  </acquisto>
+  <acquisto id="16" utente="francidono02" data="2026-03-31 18:14:29" totale="21.80">
+    <prodotto id_smalto="S06" quantita="1" prezzo_unitario="10.90"/>
+    <prodotto id_smalto="S07" quantita="1" prezzo_unitario="10.90"/>
+  </acquisto>
+  <acquisto id="17" utente="francidono02" data="2026-03-25 22:54:42" totale="19.00">
+    <prodotto id_smalto="S02" quantita="2" prezzo_unitario="9.50"/>
+  </acquisto>
+  <acquisto id="18" utente="vanedim73" data="2026-03-26 11:21:24" totale="9.50">
+    <prodotto id_smalto="S02" quantita="1" prezzo_unitario="9.50"/>
+  </acquisto>
+</acquisti>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE faq SYSTEM "faq.dtd">
+<faq>
+  <qna id="F01">
+    <domanda>Come funzionano i crediti?</domanda>
+    <risposta>I crediti sono un saldo virtuale utilizzato per acquistare i prodotti. I bonus vengono accreditati direttamente nel saldo crediti dell'utente.</risposta>
+  </qna>
+  <qna id="F02">
+    <domanda>Posso lasciare una recensione?</domanda>
+    <risposta>Sì, dopo l'acquisto puoi inserire una recensione dalla pagina di dettaglio del prodotto.</risposta>
+  </qna>
+  <qna id="F03">
+    <domanda>Il Rosso Federica che finitura ha?</domanda>
+    <risposta>Ha una finitura lucida ed è pensato per una manicure classica e intensa.</risposta>
+  </qna>
+  <qna id="F04">
+    <domanda>Il Nude è adatto a tutti i giorni?</domanda>
+    <risposta>Sì, è uno dei colori più discreti e naturali del catalogo.</risposta>
+  </qna>
+  <qna id="F05">
+    <domanda>Il Nero è molto coprente?</domanda>
+    <risposta>Sì, con due passate si ottiene un risultato uniforme e intenso.</risposta>
+  </qna>
+  <qna id="F06">
+    <domanda>Lo Champagne è perlato?</domanda>
+    <risposta>Sì, ha un effetto perlato brillante ed elegante.</risposta>
+  </qna>
+  <qna id="F07">
+    <domanda>Il Cioccolato è un colore caldo?</domanda>
+    <risposta>Sì, è un marrone caldo e lucido adatto soprattutto ai mesi più freddi.</risposta>
+  </qna>
+  <qna id="F08">
+    <domanda>L'Argento Brillantinato è glitterato?</domanda>
+    <risposta>Sì, presenta un effetto glitter brillante molto visibile.</risposta>
+  </qna>
+  <qna id="F09">
+    <domanda>L'Oro Brillantinato è adatto alle feste?</domanda>
+    <risposta>Sì, è perfetto per manicure luminose e occasioni particolari.</risposta>
+  </qna>
+  <qna id="F10">
+    <domanda>Il Bianco Perla è elegante?</domanda>
+    <risposta>Sì, è un colore chiaro e raffinato molto richiesto per manicure delicate.</risposta>
+  </qna>
+  <qna id="F11">
+    <domanda>Il Taupe è un colore neutro?</domanda>
+    <risposta>Sì, è una tonalità tortora-grigia molto versatile.</risposta>
+  </qna>
+  <qna id="F12">
+    <domanda>Il Tortora è più caldo del taupe?</domanda>
+    <risposta>Sì, il tortora ha una resa leggermente più calda.</risposta>
+  </qna>
+  <qna id="F13">
+    <domanda>Il Corallo è un colore estivo?</domanda>
+    <risposta>Sì, è una tonalità vivace perfetta per primavera ed estate.</risposta>
+  </qna>
+  <qna id="F14">
+    <domanda>Il Bordeaux è elegante?</domanda>
+    <risposta>Sì, è uno dei colori più intensi e raffinati del catalogo.</risposta>
+  </qna>
+</faq>

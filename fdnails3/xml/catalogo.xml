@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalogo SYSTEM "catalogo.dtd">
+<catalogo>
+  <smalto id="S01">
+    <nome>Rosso Federica</nome>
+    <descrizione>Rosso pieno lucido</descrizione>
+    <prezzo>8.90</prezzo>
+    <immagine>red.jpg</immagine>
+  </smalto>
+  <smalto id="S02">
+    <nome>Nude</nome>
+    <descrizione>Nude chiaro coprenza media</descrizione>
+    <prezzo>9.50</prezzo>
+    <immagine>nude.jpg</immagine>
+  </smalto>
+  <smalto id="S03">
+    <nome>Nero</nome>
+    <descrizione>Scuro lucido</descrizione>
+    <prezzo>9.90</prezzo>
+    <immagine>black.jpg</immagine>
+  </smalto>
+  <smalto id="S04">
+    <nome>Champagne</nome>
+    <descrizione>Champagne perlato brillante</descrizione>
+    <prezzo>10.50</prezzo>
+    <immagine>champagne.png</immagine>
+  </smalto>
+  <smalto id="S05">
+    <nome>Cioccolato</nome>
+    <descrizione>Marrone cioccolato lucido</descrizione>
+    <prezzo>9.80</prezzo>
+    <immagine>cioccolato.png</immagine>
+  </smalto>
+  <smalto id="S06">
+    <nome>Argento Brillantinato</nome>
+    <descrizione>Argento glitter brillante</descrizione>
+    <prezzo>10.90</prezzo>
+    <immagine>argento_brillantinato.png</immagine>
+  </smalto>
+  <smalto id="S07">
+    <nome>Oro Brillantinato</nome>
+    <descrizione>Oro glitter brillante</descrizione>
+    <prezzo>10.90</prezzo>
+    <immagine>oro_brillantinato.png</immagine>
+  </smalto>
+  <smalto id="S08">
+    <nome>Bianco Perla</nome>
+    <descrizione>Bianco perlato elegante</descrizione>
+    <prezzo>9.70</prezzo>
+    <immagine>bianco_perla.png</immagine>
+  </smalto>
+  <smalto id="S09">
+    <nome>Taupe</nome>
+    <descrizione>Grigio tortora elegante</descrizione>
+    <prezzo>9.60</prezzo>
+    <immagine>taupe.png</immagine>
+  </smalto>
+  <smalto id="S10">
+    <nome>Tortora</nome>
+    <descrizione>Tortora caldo lucido</descrizione>
+    <prezzo>9.60</prezzo>
+    <immagine>tortora.png</immagine>
+  </smalto>
+  <smalto id="S11">
+    <nome>Corallo</nome>
+    <descrizione>Corallo acceso lucido</descrizione>
+    <prezzo>9.80</prezzo>
+    <immagine>corallo.png</immagine>
+  </smalto>
+  <smalto id="S12">
+    <nome>Bordeaux</nome>
+    <descrizione>Bordeaux intenso lucido</descrizione>
+    <prezzo>9.90</prezzo>
+    <immagine>bordeaux.png</immagine>
+  </smalto>
+</catalogo>

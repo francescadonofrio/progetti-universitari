@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recensioni SYSTEM "recensioni.dtd">
+<recensioni>
+  <recensione id="R01" id_smalto="S01" username="francidono02">
+    <titolo>Rosso molto bello</titolo>
+    <testo>Colore pieno, brillante e molto elegante. Si stende bene e resta uniforme.</testo>
+    <voto>5</voto>
+    <utilita>6</utilita>
+    <supporto>2</supporto>
+    <data>2026-01-20</data>
+  </recensione>
+  <recensione id="R02" id_smalto="S01" username="vanedim73">
+    <titolo>Ottima resa</titolo>
+    <testo>Rosso classico davvero riuscito, molto coprente già dalla seconda passata.</testo>
+    <voto>5</voto>
+    <utilita>4</utilita>
+    <supporto>1</supporto>
+    <data>2026-02-06</data>
+  </recensione>
+
+  <recensione id="R03" id_smalto="S02" username="Mariadp53">
+    <titolo>Nude delicato</titolo>
+    <testo>Perfetto per tutti i giorni, naturale e ordinato. Mi piace molto l'effetto finale.</testo>
+    <voto>4</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-02-10</data>
+  </recensione>
+  <recensione id="R04" id_smalto="S02" username="sissi">
+    <titolo>Molto elegante</titolo>
+    <testo>Colore chiaro e semplice, ottimo per una manicure sobria ma curata.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-02-18</data>
+  </recensione>
+
+  <recensione id="R05" id_smalto="S03" username="tizidim75">
+    <titolo>Nero intenso</titolo>
+    <testo>Molto coprente, lucido e deciso. Ideale se si vuole un colore forte.</testo>
+    <voto>5</voto>
+    <utilita>5</utilita>
+    <supporto>2</supporto>
+    <data>2026-02-22</data>
+  </recensione>
+  <recensione id="R06" id_smalto="S03" username="francidono02">
+    <titolo>Bel nero lucido</titolo>
+    <testo>Con due passate viene perfetto. Ha una buona brillantezza e un effetto molto pulito.</testo>
+    <voto>4</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-01</data>
+  </recensione>
+
+  <recensione id="R07" id_smalto="S04" username="sissi">
+    <titolo>Champagne luminoso</titolo>
+    <testo>Bellissimo colore perlato, raffinato e molto luminoso sulle unghie.</testo>
+    <voto>5</voto>
+    <utilita>4</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-03</data>
+  </recensione>
+  <recensione id="R08" id_smalto="S04" username="Mariadp53">
+    <titolo>Molto raffinato</titolo>
+    <testo>Perfetto per occasioni eleganti, ha una brillantezza delicata ma visibile.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-07</data>
+  </recensione>
+
+  <recensione id="R09" id_smalto="S05" username="vanedim73">
+    <titolo>Cioccolato originale</titolo>
+    <testo>Un marrone caldo molto particolare, diverso dai soliti colori e molto elegante.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-09</data>
+  </recensione>
+  <recensione id="R10" id_smalto="S05" username="tizidim75">
+    <titolo>Bel marrone lucido</titolo>
+    <testo>Mi è piaciuto tanto, colore pieno e stesura semplice. Sta bene soprattutto in inverno.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-12</data>
+  </recensione>
+
+  <recensione id="R11" id_smalto="S06" username="francidono02">
+    <titolo>Argento molto brillante</titolo>
+    <testo>Effetto glitter evidente e luminoso. Ideale per feste o manicure più appariscenti.</testo>
+    <voto>5</voto>
+    <utilita>4</utilita>
+    <supporto>2</supporto>
+    <data>2026-03-14</data>
+  </recensione>
+  <recensione id="R12" id_smalto="S06" username="sissi">
+    <titolo>Bellissimo glitter</titolo>
+    <testo>Molto luminoso, copre bene e rende la manicure più particolare senza risultare eccessivo.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-16</data>
+  </recensione>
+
+  <recensione id="R13" id_smalto="S07" username="Mariadp53">
+    <titolo>Oro brillante</titolo>
+    <testo>Molto bello e luminoso, perfetto per periodi festivi o serate eleganti.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-18</data>
+  </recensione>
+  <recensione id="R14" id_smalto="S07" username="vanedim73">
+    <titolo>Colore pieno e caldo</titolo>
+    <testo>Glitter ben visibili e tonalità dorata molto elegante. Mi è piaciuto tantissimo.</testo>
+    <voto>5</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-20</data>
+  </recensione>
+
+  <recensione id="R15" id_smalto="S08" username="tizidim75">
+    <titolo>Bianco molto elegante</titolo>
+    <testo>Perlato delicato, ottimo per manicure pulite e luminose. Molto fine come effetto.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-22</data>
+  </recensione>
+  <recensione id="R16" id_smalto="S08" username="francidono02">
+    <titolo>Effetto pulito</titolo>
+    <testo>Mi piace perché è chiaro ma non spento. Ha una bella luminosità discreta.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-23</data>
+  </recensione>
+
+  <recensione id="R17" id_smalto="S09" username="sissi">
+    <titolo>Taupe versatile</titolo>
+    <testo>Colore elegante e facile da portare, perfetto sia per tutti i giorni sia per occasioni più formali.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-24</data>
+  </recensione>
+  <recensione id="R18" id_smalto="S09" username="Mariadp53">
+    <titolo>Molto raffinato</titolo>
+    <testo>Una tonalità sobria e moderna, davvero bella su unghie corte.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-25</data>
+  </recensione>
+
+  <recensione id="R19" id_smalto="S10" username="vanedim73">
+    <titolo>Tortora riuscito</titolo>
+    <testo>Mi piace molto perché è caldo ma neutro. Sta bene con tanti look diversi.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-26</data>
+  </recensione>
+  <recensione id="R20" id_smalto="S10" username="tizidim75">
+    <titolo>Discreto ma bello</titolo>
+    <testo>Un colore semplice ma molto curato, con una buona coprenza e una bella finitura lucida.</testo>
+    <voto>4</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-27</data>
+  </recensione>
+
+  <recensione id="R21" id_smalto="S11" username="francidono02">
+    <titolo>Corallo acceso</titolo>
+    <testo>Colore vivace, allegro e perfetto per la primavera o l'estate. Molto luminoso.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-28</data>
+  </recensione>
+  <recensione id="R22" id_smalto="S11" username="sissi">
+    <titolo>Molto fresco</titolo>
+    <testo>Una tonalità brillante e piena, davvero bella per manicure più colorate.</testo>
+    <voto>5</voto>
+    <utilita>2</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-29</data>
+  </recensione>
+
+  <recensione id="R23" id_smalto="S12" username="Mariadp53">
+    <titolo>Bordeaux elegante</titolo>
+    <testo>Colore intenso e raffinato, perfetto per periodi più freddi e occasioni eleganti.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-30</data>
+  </recensione>
+  <recensione id="R24" id_smalto="S12" username="tizidim75">
+    <titolo>Molto bello e pieno</titolo>
+    <testo>Bordeaux profondo, coprente e lucido. Uno dei miei preferiti del catalogo.</testo>
+    <voto>5</voto>
+    <utilita>3</utilita>
+    <supporto>1</supporto>
+    <data>2026-03-31</data>
+  </recensione>
+</recensioni>
